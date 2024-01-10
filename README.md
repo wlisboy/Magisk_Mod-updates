@@ -96,6 +96,30 @@ Magisk 模块用于解决 Google 的 SafetyNet 和 Play Integrity 认证。
 Android starts Mod
 ===
 ******
+
+@ReChronoRain_Cemiuiler_old
+---
+
+**Make MIUI Great Again!**
+
+>支持的版本：
+Android 11 ~ 13 的 MIUI 12.5 ~ 14
+不支持 修改较多的第三方 MIUI Rom、修改较多的系统软件，以及部分国外 MIUI Rom，目前 Cemiuiler 是基于 Android 13 的 MIUI 14 的手机端设备进行适配，覆盖不是很完整，需要不断测试和改进。
+
+- 下载地址：https://github.com/ReChronoRain/Cemiuiler/releases
+
+@ReChronoRain_HyperCeiler_New
+---
+
+**Make HyperOS Great Again!**
+
+>支持的版本：
+Android 11 ~ 14 的 MIUI 12.5 ~ 14/Xiaomi HyperOS1.0
+不支持 修改较多的第三方 MIUI/Xiaomi HyperOS Rom、修改较多的系统软件，以及部分国外 MIUI/Xiaomi HyperOS Rom；目前 HyperCeiler 是基于 Android 14 的 Xiaomi HyperOS1.0 的手机端设备进行适配，覆盖不是很完整，需要不断测试和改进。
+
+- 更新地址：https://github.com/ReChronoRain/HyperCeiler
+
+
 @LuckyPray_XAutoDaily
 ---
 
