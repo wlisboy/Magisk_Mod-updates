@@ -34,7 +34,7 @@ Shamiko
 >介绍：
 略
 
--更新地址：https://github.com/LSPosed/LSPosed.github.io/releases
+- 更新地址：https://github.com/LSPosed/LSPosed.github.io/releases
 
 @xiaorun_Ruru
 ---
@@ -110,7 +110,7 @@ XAutoDaily 是一个兼容QQ大部分版本(包括新版TIM)的开源签到 Xpos
 >介绍：
 QAuxiliary 是一个基于 QNotified 的开源 Xposed 模块
 
--更新地址：https://github.com/cinit/QAuxiliary
+- 更新地址：https://github.com/cinit/QAuxiliary
 
 @KimmyXYC_BiliRoaming
 ---
@@ -125,7 +125,7 @@ QAuxiliary 是一个基于 QNotified 的开源 Xposed 模块
 ---
 
 >功能：
-解锁逗音某隐藏特性
+>解锁逗音某隐藏特性
 
 - 更新地址：https://github.com/rong862/bear
 
