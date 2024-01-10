@@ -43,7 +43,7 @@ Shamiko
  软件更名，不与给空空带来困扰
  增加vpn，usb调试,开发者选项
 
--更新地址：https://github.com/byxiaorun/Ruru/releases
+- 更新地址：https://github.com/byxiaorun/Ruru/releases
 
 @Dr-TSNG_Hide-My-Applist
 ---
@@ -102,7 +102,7 @@ Android starts Mod
 >介绍：
 XAutoDaily 是一个兼容QQ大部分版本(包括新版TIM)的开源签到 Xposed 模块
 
--更新地址：https://github.com/LuckyPray/XAutoDaily
+- 更新地址：https://github.com/LuckyPray/XAutoDaily
 
 @cinit_QAuxiliary
 ---
