@@ -164,3 +164,26 @@ QAuxiliary 是一个基于 QNotified 的开源 Xposed 模块
 它可以实现点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片；一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信自动领取红包
 
 - 更新地址：https://github.com/gkd-kit/gkd/releases
+
+@fankes_MIUINativeNotifyIcon
+---
+
+>介绍：
+修复被 MIUI 开发组丢弃的原生通知图标，支持 MIUI 11~14 以及 HyperOS 1.0
+
+>适配说明:
+此模块仅支持 LSPosed (作用域“系统界面”)、EdXposed(随时停止支持)、不支持太极、无极
+请确保你使用的是 MIUI 官方版本，任何第三方官改包发生的问题，开发者没有义务去解决和修复，请自求多福
+目前最低支持基于 Android 9 版本的 MIUI 11 或 MIUI 12、12.5 (最低建议)
+建议最低从 MIUI 12.5 2021-5-18 开发版以后开始使用模块，之前的版本可能或多或少存在 MIUI 自身 BUG 不生效、图标黑白块的问题
+请始终保持最新版本的 LSPosed，旧版本可能会出现 Hook 不生效的问题，若最新版本依然不生效请在作用域中长按“系统界面” (“系统 UI”) 选择重新优化
+
+- 更新地址：https://github.com/fankes/MIUINativeNotifyIcon/releases
+
+@Block-Network_StatusBarLyric
+---
+
+>介绍：
+状态栏歌词适配
+
+-  更新地址：https://github.com/Block-Network/StatusBarLyric/releases
