@@ -187,3 +187,12 @@ QAuxiliary 是一个基于 QNotified 的开源 Xposed 模块
 状态栏歌词适配
 
 -  更新地址：https://github.com/Block-Network/StatusBarLyric/releases
+
+@sothx_mipad-magic-window
+---
+
+>介绍：
+Xiaomipad平行窗口适配
+
+- 更新地址：https://github.com/sothx/mipad-magic-window
+
