@@ -6,10 +6,10 @@ LSPosed
 
 >介绍：
 Riru / Zygisk 模块试图提供一个 ART 挂钩框架，该框架利用 LSPlant 挂钩框架提供与 OG Xposed 一致的 API。
-
->>特性：
+>
+>特性：
 Xpose 是一个模块框架，可以在不接触任何 APK 的情况下更改系统和应用程序的行为。这很好，因为这意味着模块可以适用于不同的版本，甚至无需任何更改的 ROM（只要原始代码没有更改太多）。它也很容易撤消。由于所有更改都在内存中完成，您只需停用模块并重新启动即可恢复原始系统。还有许多其他优点，但这里仅介绍一个：多个模块可以对系统或应用程序的同一部分进行更改。对于修改后的 APK，您必须选择一个。无法将它们组合起来，除非作者使用不同的组合构建多个 APK。
-
+>
 >支持的版本
 Android 8.1 ~ 14
 
@@ -20,7 +20,7 @@ LSPatch
 
 >介绍：
 LSPosed框架的无根实现，通过在目标APK中插入dex等方式集成Xposed API。
-
+>
 >支持的版本
 Min: Android 9
 Max: In theory, same with LSPosed
@@ -66,8 +66,8 @@ Shamiko
 
 >介绍：
 Zygisk 的独立实现，为 KernelSU 提供 Zygisk API 支持并替代 Magisk 的内置 Zygisk。
-
->>特性
+>
+>特性
 适用Magisk官方&&KSU
 
 - 更新地址：https://github.com/Dr-TSNG/ZygiskNext/releases
@@ -158,19 +158,23 @@ QAuxiliary 是一个基于 QNotified 的开源 Xposed 模块
 
 >介绍：
 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP
-
->>功能：
+>
+>功能：
 基于 **高级选择器 + 订阅规则 + 快照审查** 
 它可以实现点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片；一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信自动领取红包
 
 - 更新地址：https://github.com/gkd-kit/gkd/releases
+
+第三方订阅规则汇总 By @adproqwq
+---
+- 更新地址：https://github.com/Adpro-Team/GKD_THS_List
 
 @fankes_MIUINativeNotifyIcon
 ---
 
 >介绍：
 修复被 MIUI 开发组丢弃的原生通知图标，支持 MIUI 11~14 以及 HyperOS 1.0
-
+>
 >适配说明:
 此模块仅支持 LSPosed (作用域“系统界面”)、EdXposed(随时停止支持)、不支持太极、无极
 请确保你使用的是 MIUI 官方版本，任何第三方官改包发生的问题，开发者没有义务去解决和修复，请自求多福
@@ -192,7 +196,9 @@ QAuxiliary 是一个基于 QNotified 的开源 Xposed 模块
 ---
 
 >介绍：
-Xiaomipad平行窗口适配
+Xiaomipad平行窗口适配、完美横屏应用计划
+
+[HyperOS For Pad/Fold 完美横屏应用计划 - MIUI MagicWindow+](https://hyper-magic-window.sothx.com/)
 
 - 更新地址：https://github.com/sothx/mipad-magic-window
 
