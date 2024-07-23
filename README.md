@@ -147,11 +147,15 @@ QAuxiliary 是一个基于 QNotified 的开源 Xposed 模块
 
 @rong862_bear
 ---
-
->功能：
 >解锁逗音某隐藏特性
 
 - 更新地址：https://github.com/rong862/bear
+
+@GangJust_FreedomPlus
+---
+>依赖于抖音运行的开源Xposed模块，Lsposed正常使用，其他框架自测
+
+- 更新地址：https://github.com/GangJust/FreedomPlus
 
 @gkd-kit_gkd
 ---
