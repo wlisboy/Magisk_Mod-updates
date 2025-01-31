@@ -14,6 +14,8 @@ Xpose 是一个模块框架，可以在不接触任何 APK 的情况下更改系
 Android 8.1 ~ 14
 
 - 更新地址：https://github.com/LSPosed/LSPosed
+  
+- [分支]更新地址：https://github.com/JingMatrix/LSPosed/actions
 
 LSPatch
 ---
