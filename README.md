@@ -17,6 +17,8 @@ Android 8.1 ~ 14
   
 - [分支]更新地址：https://github.com/JingMatrix/LSPosed/actions
 
+- [分支]更新地址：https://github.com/re-zero001/LSPosed-Irena/actions
+
 LSPatch
 ---
 
